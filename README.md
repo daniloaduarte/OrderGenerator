@@ -13,4 +13,5 @@ Certifique-se de que os seguintes softwares estão instalados no seu sistema:
 ## Configurar e executar
 
 npm install -g @angular/cli
+
 npm start
